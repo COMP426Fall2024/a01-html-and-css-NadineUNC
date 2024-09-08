@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background: #ffecc8;
+}
+
+.topnav {
+    color: #ffecc8;
+    background: #433d4b;
+    overflow: hidden;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.links {
+    float: left;
+    text-align: center;
+    background-color: #ffecc8;
+    border-radius: 3px;
+    padding: 6px;
+    text-decoration: none;
+    color:#433d4b;
+    margin-left: 0.5rem;
+}
+
+.topnav-right {
+    float: right;
+  }
+
+.links:hover {
+    background-color: #fec762;
+}
+
+.bookcover {
+    width: 300px;
+    height: auto;
+}
+
+#right-content {
+    float: right;
+}
+
+.book-content {
+    min-height: 530px;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.book-content p {
+    max-width: 800px;
+}
+
+.metal-content img {
+    margin: 1rem;
+    margin-left: 3rem;
+}
+
+.metal-content h1{
+    margin-left: 1rem;
+}
+
+.metal-content h2{
+    margin-left: 2rem;
+}
+
+.metal-content p{
+    margin: 1rem;
+}
+
+.aligned {
+    display: flex;
+    align-items: center;
+}
+
+#metal-description {
+    margin: 2rem;
+}
+
+.metals {
+    border: 2px solid #433d4b;
+}
