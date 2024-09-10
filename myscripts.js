@@ -11,6 +11,6 @@ function submitLoginForm(event) {
   } else {
     text.innerText = "Thank You for choosing " + s + "!";
     var form = document.getElementById("form");
-    form.style.display = "none"; 
+    form.style.display = "none";
   }
 }

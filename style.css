@@ -8,7 +8,9 @@ p {
     font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Franklin Gothic', 'Arial', Arial, sans-serif;
 }
 
@@ -86,7 +88,7 @@ h1, h2, h3 {
 #metal-table {
     width: 60%;
     margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
 }
 
 .aligned {
@@ -176,7 +178,7 @@ th {
     text-align: center;
 }
 
-select{
+select {
     background-color: #fff4df;
     border-radius: 3px;
     outline: none;
